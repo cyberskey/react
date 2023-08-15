@@ -1,0 +1,5 @@
+.btn:hover {
+    color: white;
+    background: black;
+    opacity: 0.8;
+}
