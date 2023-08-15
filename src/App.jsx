@@ -161,7 +161,7 @@ function App() {
         <tfoot>
           <tr>
             <td colSpan="5" className="text-center">
-              <button type="button" className="btn btn-dark border w-50" onClick={handleAdd}>新增一列</button>
+              <button type="button" className="btn btn-dark border w-50" onClick={handleAdd}>新增品項</button>
             </td>
           </tr>
         </tfoot>
